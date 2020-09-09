@@ -16,7 +16,7 @@ y = 7
 a = "5"
 b = "7"
 "57"
-print(str(x).__add__(y))
+# print(str(x).__add__(y))
 
 
 
@@ -37,13 +37,13 @@ def mult2_list(l):
 
 
 # # try out the functions
-# a = 12
+a = 12
 
-# new_number = mult2(a)
-# print(new_number)
+new_number = mult2(a)
+print(new_number)
 
-# lst = [2, 4, 6, 8] # mutable
-# mult2_list(lst)
+lst = [2, 4, 6, 8] # mutable
+mult2_list(lst)
 
-# for num in lst:
-#     print(num)
+for num in lst:
+    print(num)

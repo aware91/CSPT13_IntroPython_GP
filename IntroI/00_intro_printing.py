@@ -18,7 +18,7 @@ first_name = "Tom"
 # num = 23.87
 
 # # f strings
-# my_string = "    this is a string tom    "
+my_string = "    this is a string tom    "
 # print(my_string)
 
 # print(my_string.strip())
